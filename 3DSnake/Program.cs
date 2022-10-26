@@ -53,7 +53,7 @@ Task.Factory.StartNew(() =>
         }
     }
 });
-
+// test
 while (!exit && !playField.GameOver)
 {
     Console.SetCursorPosition(0, 0);
